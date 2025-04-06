@@ -36,6 +36,11 @@
     width: 23px;
   }
 
+@media screen and (max - width: 500px){
+ body { 
+  background-color : red;
+ }
+}
   .header {
     display: flex;
     position: absolute;
